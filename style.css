@@ -1,0 +1,19 @@
+#header {
+    background-color: dodgerblue;
+    color: white;
+}
+img{
+    max-width: 480px;
+}
+.nav, .nav-item a{
+    background-color: dodgerblue;
+    color: white;
+}
+#reseaux {
+    background-color: crimson;
+    color: black;
+    font-size: xx-large;
+}
+#reseaux a {
+    color: black;
+}
